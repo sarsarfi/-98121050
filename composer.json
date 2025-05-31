@@ -1,0 +1,11 @@
+{
+    "name": "nasser/webprogramming3",
+    "require": {
+        "illuminate/database": "^12.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
