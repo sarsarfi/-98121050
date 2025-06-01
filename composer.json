@@ -8,4 +8,7 @@
             "App\\" : "app/"
         }
     }
+    "require": {
+        "illuminate/database": "^9.52"
+    }
 }
